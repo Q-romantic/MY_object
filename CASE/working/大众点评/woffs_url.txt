@@ -1,0 +1,6 @@
+['tmp_address.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/a373270f.woff']
+['tmp_shopdesc.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/238bf63e.woff']
+['tmp_num.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/238bf63e.woff']
+['tmp_hours.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/e770bdeb.woff']
+['tmp_review.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/a373270f.woff']
+['tmp_dishname.woff', 'http://s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/e770bdeb.woff']
